@@ -1,4 +1,4 @@
-.net
+.net4.6
 7zip
 adaware
 aim
@@ -15,7 +15,6 @@ cdburnerxp
 chrome
 classicstart
 cutepdf
-digsby
 dropbox
 eclipse
 emule
@@ -32,16 +31,15 @@ glary
 gom
 googledrive
 googleearth
-googletalk
 greenshot
-hulu
 imgburn
 infrarecorder
 inkscape
 irfanview
 itunes
-java
-jdk
+java8
+jdk8
+jdkx8
 keepass2
 klitecodecs
 kmplayer
@@ -64,7 +62,6 @@ putty
 python
 qbittorrent
 quicktime
-reader
 realvnc
 revo
 shockwave

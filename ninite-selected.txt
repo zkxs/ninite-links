@@ -1,4 +1,4 @@
-.net
+.net4.6
 7zip
 air
 audacity
@@ -18,8 +18,9 @@ googleearth
 imgburn
 inkscape
 irfanview
-java
-jdk
+java8
+jdk8
+jdkx8
 keepass2
 launchy
 libreoffice
@@ -30,7 +31,6 @@ pdfcreator
 putty
 python
 qbittorrent
-reader
 revo
 shockwave
 silverlight
