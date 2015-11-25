@@ -3,17 +3,13 @@
 air
 audacity
 auslogics
-bittorrentsync
 cccp
 chrome
-dropbox
 eclipse
-evernote
 everything
 filezilla
 firefox
 gimp
-googledrive
 googleearth
 imgburn
 inkscape
@@ -37,8 +33,6 @@ silverlight
 skype
 steam
 teamviewer
-thunderbird
 vlc
 windirstat
-winmerge
 winscp
