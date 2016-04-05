@@ -48,6 +48,7 @@ libreoffice
 malwarebytes
 mediamonkey
 mozy
+musicbee
 notepadplusplus
 nvda
 onedrive
