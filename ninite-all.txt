@@ -5,11 +5,9 @@ aim
 aimp
 air
 audacity
-auslogics
 avast
 avg
 avira
-bittorrentsync
 cccp
 cdburnerxp
 chrome
@@ -42,7 +40,6 @@ jdk8
 jdkx8
 keepass2
 klitecodecs
-kmplayer
 launchy
 libreoffice
 malwarebytes
@@ -73,15 +70,15 @@ steam
 sugarsync
 sumatrapdf
 super
-teamviewer11
+teamviewer12
 teracopy
 thunderbird
 trillian
 vlc
+vscode
 winamp
 windirstat
 winmerge
 winrar
 winscp
 xnview
-yahoo
